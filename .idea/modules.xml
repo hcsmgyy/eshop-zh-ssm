@@ -4,6 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eshop/eshop.iml" filepath="$PROJECT_DIR$/eshop/eshop.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop/it_common/it_common.iml" filepath="$PROJECT_DIR$/eshop/it_common/it_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/it_manager/it_manager.iml" filepath="$PROJECT_DIR$/eshop/it_manager/it_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/it_manager/it_manager_dao/it_manager_dao.iml" filepath="$PROJECT_DIR$/eshop/it_manager/it_manager_dao/it_manager_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/it_manager/it_manager_interface/it_manager_interface.iml" filepath="$PROJECT_DIR$/eshop/it_manager/it_manager_interface/it_manager_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/it_manager/it_manager_pojo/it_manager_pojo.iml" filepath="$PROJECT_DIR$/eshop/it_manager/it_manager_pojo/it_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/it_manager/it_manager_service/it_manager_service.iml" filepath="$PROJECT_DIR$/eshop/it_manager/it_manager_service/it_manager_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eshop/it_manager/it_manager_web/it_manager_web.iml" filepath="$PROJECT_DIR$/eshop/it_manager/it_manager_web/it_manager_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/eshop/it_parent/it_parent.iml" filepath="$PROJECT_DIR$/eshop/it_parent/it_parent.iml" />
     </modules>
   </component>

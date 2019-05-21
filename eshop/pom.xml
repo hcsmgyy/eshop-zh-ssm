@@ -10,6 +10,7 @@
     <modules>
         <module>it_parent</module>
         <module>it_common</module>
+        <module>it_manager</module>
     </modules>
     <packaging>pom</packaging>
 
