@@ -1,0 +1,12 @@
+cn\beans\mapper\TbUserMapper.class
+cn\beans\mapper\TbItemDescMapper.class
+cn\beans\mapper\TbOrderShippingMapper.class
+cn\beans\mapper\TbOrderMapper.class
+cn\beans\mapper\TbContentCategoryMapper.class
+cn\beans\mapper\TbItemParamMapper.class
+cn\beans\App.class
+cn\beans\mapper\TbItemParamItemMapper.class
+cn\beans\mapper\TbItemMapper.class
+cn\beans\mapper\TbItemCatMapper.class
+cn\beans\mapper\TbContentMapper.class
+cn\beans\mapper\TbOrderItemMapper.class
