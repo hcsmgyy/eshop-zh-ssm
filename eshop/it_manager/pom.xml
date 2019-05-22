@@ -18,7 +18,6 @@
         <module>it_manager_dao</module>
         <module>it_manager_interface</module>
         <module>it_manager_service</module>
-        <module>it_manager_web</module>
     </modules>
     <packaging>pom</packaging>
     <!-- FIXME change it to the project's website -->
