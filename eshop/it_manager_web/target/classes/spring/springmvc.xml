@@ -19,6 +19,6 @@
 
     <!-- 引用dubbo服务 -->
     <dubbo:application name="it-manager-web"/>
-    <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181"/>
+    <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181" check="false"/>
     <dubbo:reference interface="cn.beans.service.ItemService" id="itemService" />
 </beans>
